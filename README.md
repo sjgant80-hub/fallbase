@@ -5,7 +5,7 @@
 **Sovereign database · single HTML file · IndexedDB-backed · SQL-like query engine inline**
 
 Part of the TemuOracle suite. Phase 1 of the Oracle wedge — replaces Oracle Database as the relational data layer.
-Prime **523** · Version **1.0.0** · MIT · ◊·κ=1
+Prime **523** · Version **1.0.0** · MIT
 
 ---
 
@@ -169,4 +169,4 @@ All four sovereign, all four single-file, all four bound to prime 523's family v
 
 ---
 
-◊·κ=1 · MIT · prime 523 · v1.0.0
+MIT · v1.0.0
